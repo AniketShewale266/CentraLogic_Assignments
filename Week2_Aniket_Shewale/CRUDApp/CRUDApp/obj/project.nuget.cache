@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCDK26siJj/JAW4MtZjalKgPzbwnuMhDAUYMEx8mpEq0C2VZSfRh0iP6dhocK/l385Hnkx/+9KINvmV31mXEKg==",
+  "success": true,
+  "projectFilePath": "D:\\Important\\CentraLogic Training\\.Net\\Week2_Aniket_Shewale\\CRUDApp\\CRUDApp\\CRUDApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
