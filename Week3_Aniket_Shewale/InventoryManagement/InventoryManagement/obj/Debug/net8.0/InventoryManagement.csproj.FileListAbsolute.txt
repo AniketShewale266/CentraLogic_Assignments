@@ -1,0 +1,14 @@
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.exe
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.deps.json
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.runtimeconfig.json
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.dll
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.pdb
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.AssemblyInfoInputs.cache
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.AssemblyInfo.cs
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.dll
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\refint\InventoryManagement.dll
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.pdb
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.genruntimeconfig.cache
+D:\Important\CentraLogic Training\.Net\InventoryManagement\InventoryManagement\obj\Debug\net8.0\ref\InventoryManagement.dll
